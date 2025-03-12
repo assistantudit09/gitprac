@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MyprojApplication {
 
 	public static void main(String[] args) {
+                String x="Ram";
 		SpringApplication.run(MyprojApplication.class, args);
 	}
 
